@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Vladislav](https://up.htmlacademy.ru/htmlcss/27/user/559095).
-* Наставник: `https://htmlacademy.ru/profile/thundercat`.
+* Наставник: [Raphael](https://htmlacademy.ru/profile/thundercat).
 
 ---
 
